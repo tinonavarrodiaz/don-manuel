@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'AmerigoBTW01-Roman';
+    src: url('AmerigoBTW01-Roman.woff2') format('woff2'),
+        url('AmerigoBTW01-Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url('Helvetica-Bold.woff2') format('woff2'),
+        url('Helvetica-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amerigo BT';
+    src: url('AmerigoBT-ItalicA.woff2') format('woff2'),
+        url('AmerigoBT-ItalicA.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('HelveticaNeue-Medium.woff2') format('woff2'),
+        url('HelveticaNeue-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AmerigoBTW01';
+    src: url('AmerigoBTW01-Bold.woff2') format('woff2'),
+        url('AmerigoBTW01-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica';
+    src: url('Helvetica.woff2') format('woff2'),
+        url('Helvetica.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amerigo BT';
+    src: url('AmerigoBT-BoldA.woff2') format('woff2'),
+        url('AmerigoBT-BoldA.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'American Typewriter';
+    src: url('AmericanTypewriter.woff2') format('woff2'),
+        url('AmericanTypewriter.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Amerigo BT';
+    src: url('AmerigoBT-RomanA.woff2') format('woff2'),
+        url('AmerigoBT-RomanA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
