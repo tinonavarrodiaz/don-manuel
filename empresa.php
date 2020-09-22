@@ -7,15 +7,13 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@donmanuel">
     <meta property="og:title" content="Nuestra empresa">
-    <meta property="og:description" content="Disfruta de una buena humeada acompañada del agradable sabor a roble de este puro 100% artesanal">
+    <meta property="og:description" content="EL viejo saber de hace nueve décadas para ser disfrutado por los nuevos conocedores fumadores.">
     <meta property="og:image" content="https://i.ibb.co/f4Ky6Gr/WEB-03.jpg">
     <link rel="stylesheet" href="assets/fonts/stylesheet.css">
-    <!--link(rel="stylesheet" type="text/css" href="assets/css/swiper.css")-->
     <link rel="stylesheet" type="text/css" href="assets/css/owl/owl.carousel.css">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="shortcut icon" href="img/favicon.png">
     <script src="assets/js/jquery.js"></script>
-    <!--script(src="assets/js/swiper.js")-->
     <script src="assets/js/owl.carousel.min.js"></script>
   </head>
   <body class="pageEmpresa">
@@ -24,9 +22,9 @@
       <nav class="main-nav" itemscope itemtype="http://schema.org/SiteNavigationElement" role="navigation" id="main-nav">
         <div class="toggle-menu menu" id="toggle"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 320"><title></title><g id="toggle-menu" class="toggle-menu" data-name="toggle-menu"><g id="Capa_1-2" data-name="Capa 1"><path d="M501.33,0H10.67a10.67,10.67,0,1,0,0,21.33H501.33a10.67,10.67,0,1,0,0-21.33Z"/><path d="M501.33,149.33H10.67a10.67,10.67,0,1,0,0,21.34H501.33a10.67,10.67,0,1,0,0-21.34Z"/><path d="M501.33,298.67H10.67a10.67,10.67,0,1,0,0,21.33H501.33a10.67,10.67,0,1,0,0-21.33Z"/></g></g></svg></div>
         <ul class="main-menu" id="main-menu">
-          <li class="main-menu__item selected" itemprop="url"><a class="main-menu__link selected" href="empresa.php" itemprop="name">Nuestra empresa</a></li>
-          <li class="main-menu__item" itemprop="url"><a class="main-menu__link" href="tienda.php" itemprop="name">Tienda en línea</a></li>
-          <li class="main-menu__item" itemprop="url"><a class="main-menu__link" href="contacto.php" itemprop="name">Contacto</a></li>
+          <li class="main-menu__item selected" itemprop="url"><a class="main-menu__link selected" href="empresa.html" itemprop="name">Nuestra empresa</a></li>
+          <li class="main-menu__item" itemprop="url"><a class="main-menu__link" href="tienda.html" itemprop="name">Tienda en línea</a></li>
+          <li class="main-menu__item" itemprop="url"><a class="main-menu__link" href="contacto.html" itemprop="name">Contacto</a></li>
         </ul>
       </nav>
     </header>
@@ -79,8 +77,7 @@
       </section>
     </main>
     <footer class="main-footer" id="main-footer"><a href="#" target="_blank"><img src="img/Facebook.png" alt="logo Facebook"></a><img src="img/logo.png" alt="logo Puros Don Manuel"><a href="#" target="_blank"><img src="img/WhatsApp.png" alt="logo Whats App"></a></footer>
-    <!--.loading#loading-->
-    <!--  img(src="img/loading-page1.svg" alt="Loading Page")-->
+    <div class="loading" id="loading"><img src="img/loading-page1.svg" alt="Loading Page"></div>
     <script src="js/scripts-min.js"></script>
   </body>
 </html>
